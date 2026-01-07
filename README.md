@@ -18,6 +18,8 @@ git clone <URL-du-repo>
 2. Ouvrir le fichier index.html dans un navigateur web moderne.
 
 
+
+
 ## Fonctionnalités
 
 Menu de navigation responsive avec toggle sur petits écrans
