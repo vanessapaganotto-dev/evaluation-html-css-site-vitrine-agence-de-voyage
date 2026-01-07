@@ -12,7 +12,7 @@ Il présente une page d’accueil avec un header, un menu de navigation responsi
 
 ## Installation  
 1. Cloner ce dépôt :  
-```bash
+
 git clone <URL-du-repo>
 
 2. Ouvrir le fichier index.html dans un navigateur web moderne.
@@ -43,3 +43,9 @@ Optimiser les images pour un meilleur chargement
 Ajouter un formulaire de contact fonctionnel
 
 Ajouter des animations CSS ou JavaScript
+
+
+
+Author :
+
+PAGANOTTO Vanessa
