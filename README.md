@@ -42,7 +42,7 @@ Footer simple avec copyright
 
 ## Améliorations possibles
 
-- Ajouter les pages `tarifs.html` et `devis.html` et lier les boutons  
+  
 - Rendre les boutons "Lire la suite" interactifs  
 - Optimiser les images pour un meilleur chargement  
 - Ajouter un formulaire de contact fonctionnel  
