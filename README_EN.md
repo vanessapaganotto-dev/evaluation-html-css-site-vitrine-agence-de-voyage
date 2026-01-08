@@ -42,7 +42,7 @@ Open the `index.html` file in a modern web browser.
 
 ## Possible Improvements
 
-- Add `tarifs.html` and `devis.html` pages and link the buttons  
+ 
 - Make the "Read more" buttons interactive  
 - Optimize images for faster loading  
 - Add a functional contact form  
