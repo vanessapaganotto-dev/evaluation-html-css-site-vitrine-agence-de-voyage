@@ -25,6 +25,7 @@ Clone this repository:
 git clone <repository-url>
 
 Open the `index.html` file in a modern web browser.
+```
 
 ---
 
