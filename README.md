@@ -40,3 +40,7 @@ Footer simple avec copyright
 ## Auteur
 
 PAGANOTTO Vanessa
+
+## Licence
+
+Ce projet est sous licence MIT.
