@@ -1,4 +1,4 @@
-🇫🇷 [French version available here](README.md
+🇫🇷 [French version available here](README.md)
 
 # Boot Voyages – Bootstrap Website
 
