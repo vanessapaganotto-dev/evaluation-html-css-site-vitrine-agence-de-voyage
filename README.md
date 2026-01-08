@@ -17,9 +17,6 @@ git clone <URL-du-repo>
 
 2. Ouvrir le fichier index.html dans un navigateur web moderne.
 
-
-
-
 ## Fonctionnalités
 
 Menu de navigation responsive avec toggle sur petits écrans
@@ -32,20 +29,14 @@ Boutons "Lire la suite" pour chaque destination (non fonctionnels)
 
 Footer simple avec copyright
 
-Améliorations possibles
+## Améliorations possibles
 
-Ajouter les pages tarifs.html et devis.html et lier les boutons
+- Ajouter les pages `tarifs.html` et `devis.html` et lier les boutons  
+- Rendre les boutons "Lire la suite" interactifs  
+- Optimiser les images pour un meilleur chargement  
+- Ajouter un formulaire de contact fonctionnel  
+- Ajouter des animations CSS ou JavaScript  
 
-Rendre les boutons "Lire la suite" interactifs
-
-Optimiser les images pour un meilleur chargement
-
-Ajouter un formulaire de contact fonctionnel
-
-Ajouter des animations CSS ou JavaScript
-
-
-
-Author :
+## Auteur
 
 PAGANOTTO Vanessa
